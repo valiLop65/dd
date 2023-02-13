@@ -1,0 +1,331 @@
+::1  -  2022-10-05 @ 21:01:05
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : 
+|Password      : 
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : 
+|[💳 CC Number]      : 
+|[🔄 Expiry Date ]      : 
+|[🔑 (CVV)]      : 
+|Phone      : 
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : 
+|Card Type           : 
+|Card Brand          : 
+|Card Country           : 
+|Bank Scheme          : 
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+::1  -  2022-10-05 @ 21:25:31
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : ZD654123
+|Password      : qsdsdq
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : John Doe
+|[💳 CC Number]      : 4156 4987 0231 5645
+|[🔄 Expiry Date ]      : 02/25
+|[🔑 (CVV)]      : 654
+|Phone      : 
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : CARD SERVICES FOR CREDIT UNIONS, INC.
+|Card Type           : CREDIT
+|Card Brand          : TRADITIONAL
+|Card Country           : United States of America
+|Bank Scheme          : VISA
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+::1  -  2022-10-05 @ 21:26:37
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : ZD654123
+|Password      : qsdsdq
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : 
+|[💳 CC Number]      : 
+|[🔄 Expiry Date ]      : 
+|[🔑 (CVV)]      : 
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : 
+|Card Type           : 
+|Card Brand          : 
+|Card Country           : 
+|Bank Scheme          : 
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+::1  -  2022-10-05 @ 21:27:57
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : ZD654123
+|Password      : qsdsdq
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : 
+|[💳 CC Number]      : 
+|[🔄 Expiry Date ]      : 
+|[🔑 (CVV)]      : 
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : 
+|Card Type           : 
+|Card Brand          : 
+|Card Country           : 
+|Bank Scheme          : 
+[+]━━━━【[📓] Billing INFO】━━━━[+]
+|First name          : John
+|Last name          : Doe
+|Address 1 [📓]          : La nouvelle gare
+|Address 2 [📓]          : Rue BITAM OMAR n1
+|City 🌃           : Ain touta
+|State 🌃           : Batna
+|Zip code 🌃          : 05002
+|Phone number 📞           : +213774472129
+|Date of birthday 🎂        : 08/12/1990
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+::1  -  2022-10-05 @ 21:29:19
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : ZD654123
+|Password      : qsdsdq
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : John Zebi
+|[💳 CC Number]      : 4987 1023 1654 5643
+|[🔄 Expiry Date ]      : 02/25
+|[🔑 (CVV)]      : 546
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : 
+|Card Type           : DEBIT
+|Card Brand          : 
+|Card Country           : United Kingdom of Great Britain and Northern Ireland
+|Bank Scheme          : VISA
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+::1  -  2022-10-05 @ 21:29:38
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : ZD654123
+|Password      : qsdsdq
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : John Zebi
+|[💳 CC Number]      : 4987 1023 1654 5643
+|[🔄 Expiry Date ]      : 02/25
+|[🔑 (CVV)]      : 546
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : 
+|Card Type           : DEBIT
+|Card Brand          : 
+|Card Country           : United Kingdom of Great Britain and Northern Ireland
+|Bank Scheme          : VISA
+[+]━━━━【[📓] Billing INFO】━━━━[+]
+|First name          : dsq
+|Last name          : dsq
+|Address 1 [📓]          : dsq
+|Address 2 [📓]          : dsq
+|City 🌃           : dsq
+|State 🌃           : qsd
+|Zip code 🌃          : qsd
+|Phone number 📞           : qsd
+|Date of birthday 🎂        : 12/12/1298
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+::1  -  2022-10-05 @ 21:40:29
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : ZD654123
+|Password      : qsdsdq
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : sdq
+|[💳 CC Number]      : 4561 2356 4654 1321
+|[🔄 Expiry Date ]      : 02/25
+|[🔑 (CVV)]      : 456
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : BNP PARIBAS
+|Card Type           : DEBIT
+|Card Brand          : GOLD
+|Card Country           : France
+|Bank Scheme          : VISA
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+::1  -  2022-10-05 @ 21:44:38
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : ZD654123
+|Password      : qsdsdq
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : sdq
+|[💳 CC Number]      : 4561 2356 4654 1321
+|[🔄 Expiry Date ]      : 02/25
+|[🔑 (CVV)]      : 456
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : BNP PARIBAS
+|Card Type           : DEBIT
+|Card Brand          : GOLD
+|Card Country           : France
+|Bank Scheme          : VISA
+[+]━━━━【[📓] Billing INFO】━━━━[+]
+|First name          : dqs
+|Last name          : dsq
+|Address 1 [📓]          : sdq
+|Address 2 [📓]          : sqd
+|City 🌃           : qsd
+|State 🌃           : sdq
+|Zip code 🌃          : sqd
+|Phone number 📞           : qds
+|Date of birthday 🎂        : 12156645
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+::1  -  2022-10-05 @ 21:53:43
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : t.me-amandz741@gmail.com
+|Password      : Passwordtest123
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : Aman McSl0vv
+|[💳 CC Number]      : 5613 2654 1032 1978
+|[🔄 Expiry Date ]      : 02/25
+|[🔑 (CVV)]      : 456
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : 
+|Card Type           : 
+|Card Brand          : 
+|Card Country           : 
+|Bank Scheme          : 
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+[McSl0vv Team🇩🇿][+]━━━━【 PaySera Logs 】━━━━[+][McSl0vv Team🇩🇿]
+::1  -  2023-1-06 @ 13:47:50
+------------ DARKWEBDEITY MYGOV PAGE-------------
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : larry@lary.com
+|Password      : Jqntdmh2005
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : 242143432434
+|[💳 CC Number]      : 3242 1342 3432 423
+|[🔄 Expiry Date ]      : 1/34324
+|[🔑 (CVV)]      : 3124
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : 
+|Card Type           : 
+|Card Brand          : 
+|Card Country           : 
+|Bank Scheme          : 
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+IP  :  ::1
+-----------DWD-------------
